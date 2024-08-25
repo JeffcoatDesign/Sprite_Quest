@@ -7,7 +7,7 @@ public class ScoutThings : MonoBehaviour
 {
     public void LoadStealing()
     {
-        Debug.Log("Stealing");
+        SceneManager.LoadScene("Stealing");
     }
 
     public void LoadPickpocket()

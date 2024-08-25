@@ -15,6 +15,9 @@ EditorBuildSettings:
     path: Assets/Scenes/GetJob.unity
     guid: bb71b3c2965074b41b4bd33845aa1bbf
   - enabled: 1
+    path: Assets/Scenes/StealBothHelmet.unity
+    guid: 91b91f19d3992504abcf851722bde088
+  - enabled: 1
     path: Assets/Scenes/Fishing.unity
     guid: 01cfc9d1c209ab342b7702251d25fad6
   - enabled: 1
@@ -24,22 +27,46 @@ EditorBuildSettings:
     path: Assets/Scenes/Befriend.unity
     guid: df947d3075f72da45ac2f5e2df6127d3
   - enabled: 1
-    path: Assets/Scenes/Pickpocket.unity
-    guid: 1491c4aaf1b52024d9ffc42ffc4ede52
-  - enabled: 1
     path: Assets/Scenes/RefuseJob.unity
     guid: dcabaf3e739f3f842b3defd903f9653d
   - enabled: 1
-    path: Assets/Scenes/SampleScene.unity
-    guid: 9fc0d4010bbf28b4594072e72b8655ab
+    path: Assets/Scenes/Stealing.unity
+    guid: f5ce19a94091afb4cad4ca18b0a6e863
   - enabled: 1
     path: Assets/Scenes/ScoutThings.unity
     guid: 9b2bf93e215d48f4590b28d58df9cf2c
   - enabled: 1
+    path: Assets/Scenes/StealBoth.unity
+    guid: c9835d4ab7d2b64429a6936047d25625
+  - enabled: 1
     path: Assets/Scenes/Snitch.unity
     guid: 322c5fbc4a74661429c011b14c86d63d
   - enabled: 1
-    path: Assets/Scenes/Stealing.unity
-    guid: a52ae7ccb5efc8f45a1feee2f12f1c2b
+    path: Assets/Scenes/StealHelmet.unity
+    guid: 7bbd1ad257702c84789f0791df8dad7a
+  - enabled: 1
+    path: Assets/Scenes/StealSprite.unity
+    guid: c28f5cca162e30d4694e0533ccdea89e
+  - enabled: 1
+    path: Assets/Scenes/Pickpocket.unity
+    guid: 829c84285d4c5ac4386a717b5b062ff0
+  - enabled: 1
+    path: Assets/Scenes/SideCriminals.unity
+    guid: ebd4ff8a0302a9848ae84a2374286987
+  - enabled: 1
+    path: Assets/Scenes/SideGuard.unity
+    guid: 1fbf317f8ff164d4cba03cd818ddaa92
+  - enabled: 1
+    path: Assets/Scenes/DestroyGuild.unity
+    guid: 7fdc301d26dc6584491fdba70848fa43
+  - enabled: 1
+    path: Assets/Scenes/GuardPay.unity
+    guid: bc7fe33917cda2e499db0e20c702e820
+  - enabled: 1
+    path: Assets/Scenes/Credits.unity
+    guid: 6359661b4113fe0449d5c8ce429382a9
+  - enabled: 1
+    path: Assets/Scenes/CrimePay.unity
+    guid: 3f324b2aa5c21a3408b34502b6c24baa
   m_configObjects:
     com.unity.input.settings: {fileID: 11400000, guid: 53b52033130363847bc395252752a9cb, type: 2}
